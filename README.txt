@@ -8,4 +8,6 @@ You can add your friends' name and their birthdate
 
 You can search in the list and find your friends birthdate by their name and visa versa 
 
-The code has the birthdate of Shangool , Mangool ,HabeAngoor and AghaGorgeh  by default !!!  :) 
+The code has the birthdate of Shangool , Mangool ,HabeAngoor and AghaGorgeh  by default !!!  :)
+
+IT IS UNDER DEVLOPMENT ! :) 
